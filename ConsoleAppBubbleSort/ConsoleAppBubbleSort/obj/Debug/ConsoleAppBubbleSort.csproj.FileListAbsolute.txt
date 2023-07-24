@@ -1,0 +1,8 @@
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\ConsoleAppBubbleSort.exe.config
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\ConsoleAppBubbleSort.exe
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\bin\Debug\ConsoleAppBubbleSort.pdb
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\ConsoleAppBubbleSort.csproj.AssemblyReference.cache
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\ConsoleAppBubbleSort.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\ConsoleAppBubbleSort.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\ConsoleAppBubbleSort.exe
+D:\simplilearn\day-12\ConsoleAppBubbleSort\ConsoleAppBubbleSort\obj\Debug\ConsoleAppBubbleSort.pdb

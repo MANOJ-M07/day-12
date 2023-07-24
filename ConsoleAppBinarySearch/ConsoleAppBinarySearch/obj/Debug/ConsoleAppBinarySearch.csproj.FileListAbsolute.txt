@@ -1,0 +1,8 @@
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\bin\Debug\ConsoleAppBinarySearch.exe.config
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\bin\Debug\ConsoleAppBinarySearch.exe
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\bin\Debug\ConsoleAppBinarySearch.pdb
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.csproj.AssemblyReference.cache
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.exe
+D:\simplilearn\day-12\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.pdb

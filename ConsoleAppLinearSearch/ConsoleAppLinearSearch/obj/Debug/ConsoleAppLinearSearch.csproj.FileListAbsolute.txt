@@ -1,0 +1,8 @@
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\bin\Debug\ConsoleAppLinearSearch.exe.config
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\bin\Debug\ConsoleAppLinearSearch.exe
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\bin\Debug\ConsoleAppLinearSearch.pdb
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.csproj.AssemblyReference.cache
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.exe
+D:\simplilearn\day-12\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.pdb

@@ -1,0 +1,8 @@
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\bin\Debug\ConsoleAppInsertionSort.exe.config
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\bin\Debug\ConsoleAppInsertionSort.exe
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\bin\Debug\ConsoleAppInsertionSort.pdb
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.csproj.AssemblyReference.cache
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.exe
+D:\simplilearn\day-12\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.pdb

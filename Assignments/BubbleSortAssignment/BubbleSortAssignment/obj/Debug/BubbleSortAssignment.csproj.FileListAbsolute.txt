@@ -1,0 +1,8 @@
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\bin\Debug\BubbleSortAssignment.exe.config
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\bin\Debug\BubbleSortAssignment.exe
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\bin\Debug\BubbleSortAssignment.pdb
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\obj\Debug\BubbleSortAssignment.csproj.AssemblyReference.cache
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\obj\Debug\BubbleSortAssignment.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\obj\Debug\BubbleSortAssignment.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\obj\Debug\BubbleSortAssignment.exe
+D:\simplilearn\day-12\Assignments\BubbleSortAssignment\BubbleSortAssignment\obj\Debug\BubbleSortAssignment.pdb

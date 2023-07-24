@@ -1,0 +1,8 @@
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\bin\Debug\ConsoleAppSelectionSort.exe.config
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\bin\Debug\ConsoleAppSelectionSort.exe
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\bin\Debug\ConsoleAppSelectionSort.pdb
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.csproj.AssemblyReference.cache
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.exe
+D:\simplilearn\day-12\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.pdb
